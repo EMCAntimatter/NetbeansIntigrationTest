@@ -23,4 +23,7 @@ public class ForLoopProof {
             System.out.println("Your letter grade is an B");
         }
         else if (average >= 90 && average < 100){
-            System.out.println("Your letter grade is an A");}}}
+            System.out.println("Your letter grade is an A");
+        }
+    }
+}
